@@ -21,6 +21,7 @@ public class Main {
 				
 				stringBuffer.append(newline);
 				stringBuffer.append("\n");
+				//
 			}
 			
 			BufferedWriter bwr = new BufferedWriter(new FileWriter(new File("C:\\Users\\mouna\\eclipse-workspace\\ParseFile\\src\\demo")));
