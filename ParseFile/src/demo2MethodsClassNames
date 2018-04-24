@@ -1,0 +1,2404 @@
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setGameNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setGameTimer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'computerPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'computerPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'computerPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'computerPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'setCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'gameOver'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getGameNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getRenderer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'gameOver'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'gameOver'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getCurrentGameState'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setGameTimer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'addActionListener'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'computerPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getGameTimer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'isRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'toggleMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'toggle'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'convertUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'getEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'stopPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess$1'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess$2'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'free'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'setDefaultFrameCoordinates'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'engineStatusChanged'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getStatusDisplayString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'engineStatusChanged'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'setActionText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'getMenuItem'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'getName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'setRenderer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess$3'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess$4'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'engineStatusChanged'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'getMenuItem'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.AboutAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.HelpAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.ResetGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'addEngineStatusListener'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setEnginePanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setStatusPanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.menu.EditMenu'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.menu.EditMenu'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.menu.EditMenu'),'setNotationPanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setNotationPanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getPreferredSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NavigationPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'addLocation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'main'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'setDefaultFrameCoordinates'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'packFrame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'setDefaultFrameCoordinates'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'placeFrame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'setDefaultFrameCoordinates'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'setFrameSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.AboutAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.HelpAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'getName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'getShortDescription'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'getPGNFileFilter'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'readGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFileFilter'),'getDescription'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.ResetGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.ResetGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.ResetGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'trySave'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNOutputStream'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'trySave'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNOutputStream'),'write'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'trySave'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'getPGNFileFilter'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFileFilter'),'getDescription'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'getPGNFileFilter'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFileFilter'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'clone'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'setPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getBoardAfterPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'clone'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getBoardAfterPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'setPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'setPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getTypeAndColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'setPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.dialogs.PlayerDialog'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.dialogs.PlayerDialog'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'setGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'setPlyGenerator'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getEmptySquares'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'whiteHasMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getNumberOfPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'isWhite'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'setSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'setMoveRight'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getEmptySquares'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'getPlyGenerator'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getKnightPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'createLogFile'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setInOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setWhite'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setAnalyzer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'activatePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'notifyListeners'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'activatePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'stopPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'activatePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'usePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'analyzeBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'analyze'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'analyzeBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isWhite'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getAnalyzedBoards'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMaximumSearchTime'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'inOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setInOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setSearchStop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'getOpeningBookPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getScore'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'modifyText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'computeBestPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'setStatusText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getCurrentGameState'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getCurrentGameState'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getCurrentGameState'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setMaximumSearchTime'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'usePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'setMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMenu'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.action.LoadOpeningsAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getStatusDisplayString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getStatusDisplayString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getMaximumSearchTime'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getStatusDisplayString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isFixedTime'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isWhite'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'minimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'analyzeBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'minimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'minimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'increaseAnalyzedBoards'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'minimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'isCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'notifyListeners'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess'),'engineStatusChanged'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setInOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'setText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'setStatusText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'increaseSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isSearchStop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isWhite'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'usePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getScore'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'modifyText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'setStatusText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setSearchStop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getBoardAfterPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'isSearchStop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'minimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'pushEntry'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'undoLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startMinimaxAlphaBeta'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'setAnalyzedBoards'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'startPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'usePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'stopPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'stopPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'stopComputation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getPermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'usePermanentBrain'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'doUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'resetUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'validateUserPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'precomputeKingPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'precomputeKnightPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addAbsolutePlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishopPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishops'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishops'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishops'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishopPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishops'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addAbsolutePlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getAnalyzer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'hasBeenMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addAbsolutePlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRelativePliesDownward'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRelativePliesUpward'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueenPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishopPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueenPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRookPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueens'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueens'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueens'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueenPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueens'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRookPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRooks'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRooks'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitUtils'),'getHighestBit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRooks'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRookPos'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRooks'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getBoardAfterPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'isInCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getAnalyzer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRelativePliesDownward'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRelativePliesUpward'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addRegularPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getAllPiecesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getEmptySquares'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPositionOfPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForBishops'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKing'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForKnights'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForPawns'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForQueens'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'addPliesForRooks'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getHashtable'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'presortPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'resetPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'getPliesForColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'presortPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'quickersort'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'quickersort'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'shakersort'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'quickersort'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getScore'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'shakersort'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'getScore'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'setPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'setSearchDepth'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'isWhiteMove'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'setMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'pushEntry'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableEntryImpl'),'hashKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'pushEntry'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'pushEntry'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'setMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'setMaximumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'getSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getEmptySquares'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'computeKey'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'setSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.ZobristKeyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'setNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'getOpeningBookPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.OpeningBookImpl'),'findOpening'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.action.LoadOpeningsAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.JavaChessAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.action.LoadOpeningsAction'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.opening_book.action.LoadOpeningsAction'),'setOpeningBook'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'setEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'getUserPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.permanent_brain.PermanentBrain'),'getEngine'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'setMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'setMovedPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'setPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'getMovedPieces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'hasBeenMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'setMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastGameStatus'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'push'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastGameStatus'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'empty'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastGameStatus'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'peek'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastGameStatus'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getNumberOfPlies'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'size'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'hasBeenMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl$GameStatus'),'hasBeenMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'hasBeenMoved'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'getLastGameStatus'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'clear'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'undoLastPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'pop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'getNotationPanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'addPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'getPGNheader'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'getPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'getNotationPanel'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setOpeningInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'setPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'setPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'isCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'isCheck'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'isCheckMate'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'computeStringRepresentation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'isCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'getPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.PlyNotationImpl'),'isCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'isCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'initialPosition'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.BitBoardAnalyzerImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.PlyGenerator'),'setAnalyzer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.hashtable.PlyHashtableImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.game.GameImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'setReader'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getReader'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'-clinit-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'readGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'readGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'getPGNParser'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNFile'),'readGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mLBRACK'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mRBRACK'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mSTRING_LITERAL'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_BLACK'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_DATE'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_EVENT'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_RESULT'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_ROUND'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_SITE'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mTAG_WHITE'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'mWS'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNOutputStream'),'write'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'getPGNheader'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNOutputStream'),'write'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'blackTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'blackTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'getNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'blackTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'dateTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'eventTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.JavaChess$4'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.engine.ChessEngineImpl'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.GameLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'moveTextSection'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'setGameLoader'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'setNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPairSection'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getPreferredSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$1'),'mouseClicked'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'pgnGame'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'resultTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'roundTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'siteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'blackTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'dateTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'eventTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'resultTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'roundTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'siteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPairSection'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPair'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'tagPairSection'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNLexer'),'nextToken'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'getNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteTag'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.pgn.PGNParser'),'whiteSpaces'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'setPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.AnalyzedPlyImpl'),'setScore'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'setCapture'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'setDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'setSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'toString'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'toSquareName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'setSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'equals'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'toSquareName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getLineIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'toSquareName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getRowIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.AnimationLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.AnimationLayer'),'setPiecesLayer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getSquareSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.LoadGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.ResetGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.action.SaveGameAsAction'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getPreferredSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.BoardLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'setBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'getAnimationLayer'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getMinimumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getSquareSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getPreferredSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getMinimumSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessSet'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessSet'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'loadImage'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$1'),'mouseClicked'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$2'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$2'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.GameController'),'userPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$2'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$2'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$2'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'access$0'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getSquareSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer$1'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'setController'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'access$0'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'getController'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'paintComponent'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ControlLayer'),'markSquare'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'modifyText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'getText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'modifyText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.EnginePanel'),'setText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'addActionListener'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'alignText'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setNoClockRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'reset'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'stop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'setCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setBlackClockRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'stop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'stop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'stop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'toggle'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setBlackClockRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'toggle'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'setWhiteClockRunning'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'toggle'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'start'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'toggle'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'stop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NavigationPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NavigationPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setGameNotation'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.dialogs.PlayerDialog'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.dialogs.PlayerDialog'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.dialogs.PlayerDialog'),'getNewName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'getBlackPlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'getWhitePlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.Tools'),'setDialogToCenter'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setBlackPlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setWhitePlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setBlackPlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.NotationPanel'),'setWhitePlayerName'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.notation.GameNotationImpl'),'setPlayerInfo'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.AnimationLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessBoardRenderer2D'),'getSquareSize'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.ChessSet'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getDestination'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.ply.PlyImpl'),'getSource'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'getSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'doPly'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PositionRenderer'),'getPieceFrom'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.bitboard.BitBoardImpl'),'getPiece'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getColor'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.piece.PieceImpl'),'getType'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.position.PositionImpl'),'setSquareIndex'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PieceRenderer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PositionRenderer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PiecesLayer'),'repaintBoard'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PositionRenderer'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PositionRenderer'),'getPieceFrom'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.PositionRenderer'),'setIcon'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.StatusPanel'),'jbInit'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'setCountingDirection'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'display'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'isCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'notifyListeners'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.GameTimerPanel'),'actionPerformed'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'display'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'run'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'notifyListeners'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'setCountdown'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.renderer2d.TimerPanel'),'display'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'getInstance'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.ResourceLoader'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'-init-'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'peek'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'empty'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'pop'),
+
+((SELECT ID from Classes WHERE ClassName='de.java_chess.javaChess.util.UnsynchronizedArrayStack'),'empty'),
+
