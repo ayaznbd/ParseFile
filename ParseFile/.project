@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<projectDescription>
+<projectDesc>
 	<name>ParseFile</name>
 	<comment></comment>
 	<projects>
@@ -14,4 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-</projectDescription>
+</projectDesc>
